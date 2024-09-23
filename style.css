@@ -1,0 +1,17 @@
+body {
+    text-align: justify;
+    margin: 0 auto;
+    width: 50em;
+}
+
+img {
+    margin: auto;
+    width: 350px;
+    padding-left: 25px;
+    height: 250px;
+}
+
+footer {
+    text-align: right;
+    padding-top: 15px;
+}
