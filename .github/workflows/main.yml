@@ -25,4 +25,4 @@ jobs:
         env:
           SURGE_TOKEN: ${{ secrets.SURGE_API_KEY }}
         run: |
-          surge --project ./ --domain diddys.surge.sh
+          surge --project ./ --domain polite-tub.surge.sh
